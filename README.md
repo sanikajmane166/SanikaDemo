@@ -1,4 +1,4 @@
 # SanikaDemo
 This is my first repository
-<b/>
+<br>
 Author - sanika mane
